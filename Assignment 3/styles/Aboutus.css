@@ -1,0 +1,12 @@
+body {
+    font-family: 'Brandon Grotesque', sans-serif;
+    font-size: 16px;
+    color: #383838;
+    font-weight: 400;
+    line-height: 1.25;
+    overflow-x: hidden;
+    margin: 0;
+    padding: 0;
+    background-color:lightsalmon;
+}
+
